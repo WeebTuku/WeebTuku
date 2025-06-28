@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Hello World! I'm currently a computer science student studying in Universiti Tunku Abdul Rahman,
+And I hope to learn a lot in Github!
+
+As a computer science student, I'm currently learning:
+- C++
+- Python
+- Java
+- Front-end web development
+- Data Science
+- Machine Learning and Artificial Intelligence
 <!--
 **WeebTuku/WeebTuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
